@@ -1,0 +1,27 @@
+.formulari{
+    margin-top: 40px;   
+    width: 380px; 
+    display: inline-block;
+}    
+.user__info{
+        height: 44px;
+        width: 340px;
+        border-radius: 6px;
+        margin-top: 20px;
+        border: solid 2px #707070;
+        padding-left: 18px;
+        padding-right: 18px;
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.button{
+    margin-top: 45px;
+    width: 383px;
+    height: 70px;
+    font-size: 24px;
+    color: #ffffff;
+    background-color: #6e5d36;
+    border-radius: 10px;
+    border-width: 0px;
+
+}

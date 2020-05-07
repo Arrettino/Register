@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+}
+a{
+    color:  #707070;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 949px;
+    width: 1853px;
+    background-color: #707070;
+}
+.Register_{
+    padding-top: 34px;
+    width: 440px;
+    height: 520px;
+    background-color: #d8c8a3;
+    text-align: center;
+}
+
+.sign_in{
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 16px;
+  }    
+
+.sign_up{
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 16px;
+    display: float;
+
+}    
+

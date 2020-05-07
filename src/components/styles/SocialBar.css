@@ -1,0 +1,9 @@
+.social__bar{
+    margin-top: 39px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.icon{
+    margin-left: 50px;
+}
