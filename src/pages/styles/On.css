@@ -1,0 +1,38 @@
+.Background{
+    display: flex;
+    justify-content: center;
+    height: 877px;
+    background-color: #d8c8a3;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    background-color: #999999;
+    height: 300px;
+    width: 300px;
+}
+
+.register{
+    color: #ffffff;
+    font-size: 50px;  
+    display: block;
+    text-decoration: none;
+}
+
+.Center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 800px;
+    width: 1000px;
+}
+
+.icons{
+    display: inline-block;
+    width: 70px;
+    margin: 40px;
+    
+}

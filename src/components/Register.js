@@ -34,7 +34,7 @@ export class UserInfo extends Component {
             return <Redirect to='/home'/>;
           }
         return (
-            <div>
+            <React.Fragment>
                 <div className="formulari">
                     <div>
                         <input onChange={this.change}  type="email" placeholder="Email"  name="email"  className="user__info text" value={this.state.email}/>
@@ -47,7 +47,7 @@ export class UserInfo extends Component {
 
                     
                 </div>
-            </div>
+            </React.Fragment>
         )
     }
 }
